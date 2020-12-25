@@ -24,8 +24,8 @@
 				<!-- Menu -->
 					<nav id="menu">
 						<ul class="links">
-							<li><a href="index.html">Home</a></li>
-							<li><a href="landing.html">About Us</a></li>
+							<li><a href="index.php">Home</a></li>
+							<li><a href="login.php">About Us</a></li>
 							<li><a href="generic.html">ACET</a></li>
 							
 						</ul>
