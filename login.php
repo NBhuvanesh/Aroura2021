@@ -11,4 +11,6 @@
     $db = new PDO("odbc:DRIVER=(Microsoft Access Driver (*.mdb)}; DBQ=$db; Uid=; Pwd=;");
     $sql = "SELECT * FROM Table1";
     $result = $db->query($sql);
+    echo "<pre>";
+    print_r($result->fetchAll());
 ?>
